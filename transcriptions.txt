@@ -1,0 +1,5 @@
+1.wav: Avagavu
+2.wav: Amafaranga
+3.wav:  iti fuzo
+4.wav: Imana
+5.wav: Imyenda.
